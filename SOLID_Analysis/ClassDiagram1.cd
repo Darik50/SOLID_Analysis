@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SOLID_Analysis.SearchCalsses" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAIAAAAIAAAAAAAAAAAAAAAAAAAAIAAEAAAAAA=</HashCode>
+      <FileName>SearchCalsses.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SOLID_Analysis.SearchMethods" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>SearchMethods.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SOLID_Analysis.MetricsCalculator" Collapsed="true">
+    <Position X="6" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAFAAIAAAAMCIAAAEmARABAAAEAAAgAAAIAABAAQAAk=</HashCode>
+      <FileName>MetricsCalculator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Right" Position="0.1" />
+  </Class>
+  <Class Name="SOLID_Analysis.ISP" Collapsed="true">
+    <Position X="2.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIACAA=</HashCode>
+      <FileName>ISP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOLID_Analysis.LSP" Collapsed="true">
+    <Position X="4.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>LSP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOLID_Analysis.OCP" Collapsed="true">
+    <Position X="6" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>OCP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOLID_Analysis.SRP" Collapsed="true">
+    <Position X="7.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>SRP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOLID_Analysis.DIP" Collapsed="true">
+    <Position X="9.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>DIP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOLID_Analysis.Analysis" Collapsed="true">
+    <Position X="6" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Analysis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOLID_Analysis.ReportData" Collapsed="true">
+    <Position X="6" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ReportData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOLID_Analysis.PrincipleSection" Collapsed="true">
+    <Position X="8" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAEAAAAAAAAAAIQAEAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>PrincipleSection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOLID_Analysis.SummaryInfo" Collapsed="true">
+    <Position X="4" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SummaryInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOLID_Analysis.SolidReportGenerator" Collapsed="true">
+    <Position X="6" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAMAAAAAAAAAAACAABAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>SolidReportGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="SOLID_Analysis.ISearchCalsses" Collapsed="true">
+    <Position X="5.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAIAAAAIAAAAAAAAAAAAAAAAAAAAIAAEAAAAAA=</HashCode>
+      <FileName>ISearchCalsses.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SOLID_Analysis.ISearchMethods" Collapsed="true">
+    <Position X="7" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>ISearchMethods.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SOLID_Analysis.IMetricsCalculatorDIP" Collapsed="true">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IMetricsCalculatorDIP.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SOLID_Analysis.IMetricsCalculatorISP" Collapsed="true">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAQAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>IMetricsCalculatorISP.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SOLID_Analysis.IMetricsCalculatorLSP" Collapsed="true">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>IMetricsCalculatorLSP.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SOLID_Analysis.IMetricsCalculatorOCP" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAMAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IMetricsCalculatorOCP.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SOLID_Analysis.IMetricsCalculatorSRP" Collapsed="true">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAgAAAIAAAAAQAAE=</HashCode>
+      <FileName>IMetricsCalculatorSRP.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
